@@ -58,7 +58,7 @@ Customer feedback plays a crucial role in business improvement. This project pro
 ## **Installation & Setup** 💻  
 ### **Step 1: Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/Customer-Feedback-Analysis.git  
+git clone https://github.com/Aousulaprashant/Customer-Feedback-Analysis-AgglomerativeClustering.git
 cd Customer-Feedback-Analysis
 ```
 ## Step 2: Install Dependencies
